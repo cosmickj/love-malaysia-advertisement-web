@@ -1,7 +1,7 @@
 <template>
   <div class="overflow-hidden rounded">
-    <img :src="loveMalaysiaPhotoCardHead" alt="" />
-    <img :src="loveMalaysiaPhotoCardTail" alt="" />
+    <img class="w-full" :src="loveMalaysiaPhotoCardHead" alt="" />
+    <img class="w-full" :src="loveMalaysiaPhotoCardTail" alt="" />
   </div>
 
   <div class="mb-4 px-8 py-8">
